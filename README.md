@@ -16,8 +16,8 @@ Welcome to my web development project! This repository showcases my journey to i
 The primary purpose of this project is to enhance my proficiency in front-end web development. Throughout this project, I will create a dynamic and responsive website that includes multiple interactive features. By working on this project, I aim to gain a deeper understanding of the following:
 
 - Building and structuring HTML documents
-- Styling with CSS, including Flexbox, Grid, and responsive design techniques
-- Implementing functionality with JavaScript, including DOM manipulation, event handling, and API interaction
+- Styling with CSS, including Flexbox, and responsive design techniques
+- Implementing functionality with JavaScript, and hopefully implement some API interaction
 
 # Features
 
