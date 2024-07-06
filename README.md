@@ -9,7 +9,6 @@ Welcome to my web development project! This repository showcases my journey to i
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 # About the Project
