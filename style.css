@@ -14,6 +14,7 @@
   --color-light-green: #00ff00;
   --color-dark-green: #009900;
   --color-Background: hsl(0, 0%, 98%);
+  --color-black-background: hsl(0, 0%, 5%);
 
   /* shadows */
   --shadow-t-b: 0px 20px 10px hsl(0, 0%, 90%), 0px -20px 10px hsl(0, 0%, 90%);
@@ -36,6 +37,9 @@ body {
   background-color: var(--color-black);
   color: var(--color-white);
   overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .topNav a {
@@ -83,6 +87,7 @@ a.onclick {
   padding: 3vw;
   margin-left: 20%;
   margin-right: 20%;
+  margin-top: 4vw;
 }
 .welcome-content h1 {
   font-size: 3vw;
@@ -304,4 +309,5 @@ a.onclick {
   display: flex;
   flex-direction: column;
   text-align: center;
+  bottom: 0;
 }
